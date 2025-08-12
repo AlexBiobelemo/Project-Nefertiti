@@ -46,8 +46,7 @@ Follow these steps to set up and run the project on your local machine.
  * Python 3.9 or newer.
  * A Google Gemini API key. You can obtain one from Google AI Studio.
 2. Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/AlexBiobelemo/Project-Nefertiti
 
 3. Create a Virtual Environment
 It is highly recommended to use a virtual environment to manage project dependencies.
@@ -104,4 +103,5 @@ Future Improvements
  * [ ] Model saving/loading and comparison features.
  * [ ] User authentication and project saving.
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
