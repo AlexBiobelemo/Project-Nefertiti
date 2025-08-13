@@ -1,4 +1,5 @@
 Data Science Playground
+
 An intelligent, interactive web application designed to democratize data science. This tool provides a no-code environment for users to upload datasets, perform exploratory data analysis, and train machine learning models, all guided by AI-powered recommendations and interpretations.
 
 Table of Contents
