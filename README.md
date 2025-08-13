@@ -93,12 +93,19 @@ streamlit run app.py
 
 Your web browser should automatically open to the application's local address (usually http://localhost:8501).
 Project Structure
-.
-├── .env                  # Stores environment variables like the API key
-├── app.py                # Main Streamlit application script
-├── test_app.py           # Unit tests for the application logic
-├── requirements.txt      # Project dependencies
-└── README.md             # You are here
+
+.env                  # Stores environment variables like the API key
+
+app.py                # Main Streamlit application script
+
+test_app.py           # Unit tests for the application logic
+
+requirements.txt      # Project dependencies
+
+README.md             # You are here
+
+TECHNICAL_DETAILS.md  # Technical nuances of the project
+
 
 Testing
 The project includes a suite of unit tests to ensure the core data processing and model training functions are working correctly. To run the tests, execute the following command in your terminal from the project's root directory:
